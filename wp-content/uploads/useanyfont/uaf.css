@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'mont-heavy-demo';
+					src: url('/BMG/wp-content/uploads/useanyfont/2460Mont-Heavy-Demo.woff2') format('woff2'),
+						url('/BMG/wp-content/uploads/useanyfont/2460Mont-Heavy-Demo.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.mont-heavy-demo{font-family: 'mont-heavy-demo' !important;}
+
+		
